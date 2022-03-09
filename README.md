@@ -33,7 +33,7 @@ Body
 
 2. Create Group
 
-```
+```node.js
 End Point - /group
 Method - POST
 Body
@@ -45,7 +45,7 @@ Body
 
 3. Create Expense
 
-```
+```node.js
 End Point - /expense
 Method - POST
 Body
@@ -61,7 +61,7 @@ Body
 
 4. Get Expense By User
 
-```
+```node.js
 End Point - /expense/:id
 Method - GET
 Params - id of user
